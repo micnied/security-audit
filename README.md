@@ -5,4 +5,5 @@
 ## Results:
 #### I reviewed the scope of the audit then considered risks to Botium Toys’ customers, employees, and assets.
 #### I selected and rated each of the controls you selected to determine if they need to be implemented immediately or in the future.
-#### I selected compliance regulations and standards that Botium Toys needs to adhere to and explained why.
+#### I selected compliance regulations and standards that Botium Toys needs to adhere to and explained the reasons behind.
+#### I wrote a shareholder memorandum with the findings.
